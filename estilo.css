@@ -1,0 +1,48 @@
+body{
+    background-color: beige;
+    font-family: cursive;
+    margin: 20px;
+}
+h1{
+    color:black;
+    text-align: center;
+}
+h2{
+    color:sienna;
+    text-align: center;
+}
+h3{
+    color:black;
+}
+div{
+    background-color:cornsilk;
+    padding: 15px;
+    margin:15px;
+    border-radius:10px;
+}
+img{
+    width:150px;
+}
+
+table{
+    border-collapse: collapse;
+}
+th{
+    padding:10px;
+}
+td{
+    padding:10px;
+}
+h5{
+    font-family:cursive;
+}
+p{
+    color:black;
+    text-align: center;
+}
+
+a{
+    color:black;
+    text-decoration: none;
+    padding: 10px;
+}
